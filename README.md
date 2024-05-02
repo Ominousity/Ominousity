@@ -1,4 +1,5 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ominousity&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ominousity&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div id="" align="center">
+  <img class="output" src="https://github-readme-stats.vercel.app/api?username=Ominousity&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
+  <img class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=Ominousity&amp;theme=tokyonight&amp;hide_border=true" alt="github streak">
+  <img class="output" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ominousity&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages">
 </div>
